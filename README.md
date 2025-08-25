@@ -10,6 +10,4 @@ This repository contains a complete SQL data analysis project built from scratch
   - Customer behavior: retention, churn, and cohort analysis.
   - Delivery performance: average time, peak hours, and bottlenecks.
 
-- Advanced SQL Techniques: Used CTEs, window functions, subqueries, and joins to answer real-world business questions.
-
 - Insights & Recommendations: Identified top-selling products, optimized delivery patterns, and highlighted customer engagement strategies.
