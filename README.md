@@ -1,2 +1,15 @@
 # Zepto-SQL-Project
-End-to-end SQL data analysis project on Zepto dataset. Includes schema design, data cleaning, advanced queries, and business insights
+This repository contains a complete SQL data analysis project built from scratch using real-world data inspired by Zepto (an instant grocery delivery platform). The goal of the project is to demonstrate data analyst skills through data modeling, querying, and deriving business insights.
+
+- Database Setup: Designed relational schema with tables for customers, orders, products, and deliveries.
+
+- Data Cleaning & Preparation: Processed raw datasets, handled missing values, and ensured data integrity.
+
+- SQL Analysis:
+  - Sales trends by product category, location, and time.
+  - Customer behavior: retention, churn, and cohort analysis.
+  - Delivery performance: average time, peak hours, and bottlenecks.
+
+- Advanced SQL Techniques: Used CTEs, window functions, subqueries, and joins to answer real-world business questions.
+
+- Insights & Recommendations: Identified top-selling products, optimized delivery patterns, and highlighted customer engagement strategies.
